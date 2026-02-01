@@ -13,7 +13,7 @@ Practice hands-on concepts, techniques and fundamentals of programming logic wit
 ## 🚨 Problematization
 Using Javascript, develop a function that is based on the Turing machine to perform all mathematical operations present in an array and that returns an array containing the results.
 
-## 💡 Solução
+## 💡 Solution
 Develop a Turing machine engine along with a function that performs all mathematical operations on an array and returns an array containing the results.
 
 ## 🧰 Technologies Used
